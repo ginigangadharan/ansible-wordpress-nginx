@@ -1,7 +1,7 @@
 # WordPress Ansible Playbook 
 
-This repository is based on an original repo [tucsonlabs
-/ansible-playbook-wordpress-nginx](https://github.com/tucsonlabs/ansible-playbook-wordpress-nginx). I have made some changes to meet my needs.
+*This repository is based on an original repo [tucsonlabs
+/ansible-playbook-wordpress-nginx](https://github.com/tucsonlabs/ansible-playbook-wordpress-nginx). I have made some changes to meet my needs.*
 
 This repository contains an ansible playbook for provisioning a WordPress based server with both a production and staging website, optional ssl certificates (provided free via letsencrypt), PHP 7.3, Mariadb, wp-cli, and nginx.
 
